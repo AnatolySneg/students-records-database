@@ -28,5 +28,12 @@ height: 30px;
 color: #555555;
 }
 
-#sub-header {
+#content-columns {
+text-align:center;
+vertical-align: middle;
+font-size: 0.7rem;
+}
+
+#midle_string {
+text-align:center;
 }
